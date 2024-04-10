@@ -1,0 +1,13 @@
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\bin\Debug\proyecto_1.exe.config
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\bin\Debug\proyecto_1.exe
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\bin\Debug\proyecto_1.pdb
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\obj\Debug\proyecto_1.csproj.AssemblyReference.cache
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\obj\Debug\proyecto_1.FrmLogin.resources
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\obj\Debug\proyecto_1.Properties.Resources.resources
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\obj\Debug\proyecto_1.csproj.GenerateResource.cache
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\obj\Debug\proyecto_1.csproj.CoreCompileInputs.cache
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\obj\Debug\proyecto_1.exe
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\obj\Debug\proyecto_1.pdb
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\obj\Debug\proyecto_1.Form2.resources
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\obj\Debug\proyecto_1.Form3.resources
+C:\Users\zelda\Desktop\UNACH\tarea 7mo\rebeca\proyecto\proyecto_1\proyecto_1\obj\Debug\proyecto_1.FrmRegTrab.resources
